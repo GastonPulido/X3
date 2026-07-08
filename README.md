@@ -50,7 +50,7 @@ https://giep.com.ar/x3
 
 Usuario Demo:
 
-Solicitar
+Solicitar mediante correo
 
 ---
 
