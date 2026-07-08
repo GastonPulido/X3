@@ -50,7 +50,8 @@ https://giep.com.ar/x3
 
 Usuario Demo:
 
-Solicitar mediante correo
+Email: demo@x3.com
+Contraseña: demo2026
 
 ---
 
